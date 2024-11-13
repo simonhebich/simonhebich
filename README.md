@@ -1,4 +1,5 @@
 ## Hi, I am Simon 👋
+### About Me
 - 🎓 Studying Computer Science 
 - 💻 Passionate about data visualisation and network tech
 - 🌱 Currently getting basic biology and chemistry knowledge to dive into the world of computational biology later on
