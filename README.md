@@ -1,13 +1,14 @@
 ## Hi, I am Simon 👋
 ### About Me
 - 🎓 Studying Computer Science 
-- 💻 Passionate about data visualisation and network tech
-- 🌱 Currently getting basic biology and chemistry knowledge to dive into the world of computational biology later on
+- 💻 Passionate about simulation, data visualisation and network tech
+- 🌱 Currently getting basic biology knowledge to dive into the world of computational biology later on
 - 📫 How to reach me: simon.hebich@rwth-aachen.de
 
-### Skills
+### Skills and Knowledge
 - **Languages**: Python, R, C#
-- **Tools**: Git, VS Code, Jupyter Notebook, LaTeX, RStudio
+- **Tools**: Git, VS Code, Jupyter Notebook, LaTeX, RStudio, MQTT
+- **Topics**: Microcontroller, Home Automation
 
 ### Projects
 -- nothing that would be ready to show the world... *yet* --
