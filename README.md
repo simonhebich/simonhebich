@@ -6,9 +6,9 @@
 - 📫 How to reach me: simon.hebich@rwth-aachen.de
 
 ### Skills and Knowledge
-- **Languages**: Python, R, C#
-- **Tools**: Git, VS Code, Jupyter Notebook, LaTeX, RStudio, MQTT
-- **Topics**: Microcontroller, Home Automation
+- **Languages**: Python, R, C#, C
+- **Tools**: Git, TeX, Typst, MQTT, Arduino-Platform, recently Nextflow
+- **Topics**: Home-Automation, Self-Hosting, Embedded-Software, HPC
 
 ### Projects
 -- nothing that would be ready to show the world... *yet* --
